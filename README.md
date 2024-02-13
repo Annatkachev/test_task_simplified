@@ -18,7 +18,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Test task.
 
-The dataset provides you with lipid measurements in three different tissues, blood plasma (PL), brain tissue (prefrontal cortex, PFC) and liver (LIV). 
+The dataset provides you with lipid measurements in three different tissues, blood plasma (PL), brain tissue (prefrontal cortex, PFC) and liver (LIV), for two experimental groups of mice: old and young. 
 
 Your task consists of the following:
 1. Assess the statistical differences in lipid abundances between old and young mice for each of the tissue: PL, PFC, LIV.
