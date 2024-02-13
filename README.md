@@ -10,6 +10,8 @@ The data produced by the mass spectrometer have been pre-processed by a speciali
 
 The samples_simplified.csv table contains basic description of samples: tissue of origin, as well as the experimental group of the mouse - young or old.
 
+The sample ID such as "2018-06-10_rats_MS58_Plasma_pos" links the two tables together.
+
 Number of samples:
 ![image](https://github.com/Annatkachev/test_task_simplified/assets/16876840/1125babe-ee85-404a-9ea1-e3e164ec53ec)
 
