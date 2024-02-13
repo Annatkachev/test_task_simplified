@@ -10,7 +10,8 @@ The samples corresponding to particular tissues are indicated in the sample name
 
 In addition to these three tissues, the table includes measurements in so-called blank samples (for example, “'2018-07-10_rats_ExtrBlank-4_pos”). These samples have underwent the same sample preparation and mass spectrometry measurements as the other samples, but no biological material has been added at all. This means that any signal found in these samples represent some sort of contamination or some noise signal falsely detected by the pre-processing software as a lipid feature. 
 
-Note that the feature intensities have been log2 transformed before-hand. This mean that a difference of 1 in feature intensity between two samples corresponds to a two-fold increase in the original scale.
+Note that the feature intensities have been log2 transformed before-hand. This mean that a difference of 1 in feature intensity between two samples corresponds to a two-fold increase in the original scale.![image](https://github.com/Annatkachev/test_task_simplified/assets/16876840/e32d8621-2d34-4627-9a2f-6503d5f429b0)
+
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
