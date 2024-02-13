@@ -2,7 +2,7 @@
 This is a test task for lipidomics data analysis
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-data description:
+Data description.
 
 The df_simplified.csv table contains abundances of lipid features (columns), measured in different mice tissue samples (rows) by liquid chromatography mass spectrometry.  
 
@@ -16,7 +16,7 @@ Number of samples:
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-test task:
+Test task.
 
 The dataset provides you with lipid measurements in three different tissues, blood plasma (PL), brain tissue (prefrontal cortex, PFC) and liver (LIV). 
 
